@@ -1,0 +1,9 @@
+._3m_Xw {
+	position: absolute;
+    width: 100%;
+	filter: blur(4px);
+}
+
+._3m_Xw:hover {
+	filter: none;
+}
